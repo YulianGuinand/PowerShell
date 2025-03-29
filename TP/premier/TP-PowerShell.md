@@ -379,7 +379,7 @@ d-----        29/03/2025     16:56                testdossier
 -a----        29/03/2025     18:02             15 test2.txt
 ```
 
-### Copier le fichier essai1.txt dans le dossier testdossier
+### 11) Copier le fichier essai1.txt dans le dossier testdossier
 
 Commande :
 
@@ -403,7 +403,7 @@ Mode                 LastWriteTime         Length Name
 -a----        29/03/2025     18:02             15 essai1.txt
 ```
 
-### 11) Afficher la liste des fichiers du dossier et des sous-dossiers de testPowerShell
+### 12) Afficher la liste des fichiers du dossier et des sous-dossiers de testPowerShell
 
 > Pour ma part, des sous-dossiers de test
 
@@ -436,7 +436,7 @@ Mode                 LastWriteTime         Length Name
 -a----        29/03/2025     18:02             15 essai1.txt
 ```
 
-### 12) Copier le dossier testdossier ( avec ses fichier ) dans un nouveau dossier test2dossier
+### 13) Copier le dossier testdossier ( avec ses fichier ) dans un nouveau dossier test2dossier
 
 Commande :
 
@@ -464,7 +464,7 @@ d-----        29/03/2025     18:06                testdossier
 
 ```
 
-### 13) Deplacer le fichier test2.txt dans le dossier testdossier
+### 14) Deplacer le fichier test2.txt dans le dossier testdossier
 
 Commande :
 
@@ -489,7 +489,7 @@ Mode                 LastWriteTime         Length Name
 -a----        29/03/2025     18:02             15 test2.txt
 ```
 
-### 14) Supprimer le dossier test2dossier (avec ses fichiers)
+### 15) Supprimer le dossier test2dossier (avec ses fichiers)
 
 Commande :
 
@@ -514,7 +514,7 @@ d-----        29/03/2025     18:12                testdossier
 -a----        29/03/2025     18:02             15 essai1.txt
 ```
 
-### 15) Tester l’existance du dossier c\... \ un_exemple, si le dossier existe affiche le texte en vert sinon en rouge
+### 16) Tester l’existance du dossier c\... \ un_exemple, si le dossier existe affiche le texte en vert sinon en rouge
 
 Commande :
 
@@ -528,7 +528,7 @@ Retour :
 Le dossier n existe pas. # en rouge
 ```
 
-### 15) Afficher la liste des .exe du dossier Windows
+### 17) Afficher la liste des .exe du dossier Windows
 
 Commande :
 
@@ -558,7 +558,7 @@ Mode                 LastWriteTime         Length Name
 -a----        06/12/2019     22:29          11264 write.exe
 ```
 
-### 16) Puis afficher le nombre de fichier
+### 18) Puis afficher le nombre de fichier
 
 Commande :
 
